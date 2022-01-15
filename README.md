@@ -1,7 +1,7 @@
 
 # DSMovie
 
-Aplicação para comentários e avaliações de filmes e series.
+Aplicação para avaliações de filmes e series.
 
 ## Sobre
 
